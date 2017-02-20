@@ -10,7 +10,7 @@
     "bundle",
     "tiloweb"
   ],
-  "licence": "GNU",
+  "licence": "MIT",
   "authors": [
     {
       "name": "Thibault HENRY",

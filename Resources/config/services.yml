@@ -1,0 +1,4 @@
+services:
+    quipu:
+        class: Tiloweb\QuipuBundle\Service\QuipuService
+        arguments: ["%quipu_app%", "%quipu_secret%"]

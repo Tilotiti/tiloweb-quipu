@@ -1,0 +1,32 @@
+{
+  "name": "tiloweb/quipu-bundle",
+  "description": "Add automated API integration as a Symfony Service",
+  "type": "symfony-bundle",
+  "keywords": [
+    "quipu",
+    "zyfro",
+    "api",
+    "symfony3",
+    "bundle",
+    "tiloweb"
+  ],
+  "licence": "GNU",
+  "authors": [
+    {
+      "name": "Thibault HENRY",
+      "homepage": "http://www.tiloweb.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.3",
+    "symfony/framework-bundle": ">=3.1"
+  },
+  "autoload": {
+    "psr-0": {
+      "Tiloweb\\QuipuBundle\\": ""
+    }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "target-dir": "Tiloweb/QuipuBundle"
+}

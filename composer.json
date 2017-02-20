@@ -14,7 +14,9 @@
   "authors": [
     {
       "name": "Thibault HENRY",
-      "homepage": "http://www.tiloweb.com"
+      "email": "thibault@henry.pro"
+      "homepage": "https://www.tiloweb.com",
+      "role": "Developer"
     }
   ],
   "require": {
